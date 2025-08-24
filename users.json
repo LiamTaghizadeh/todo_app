@@ -1,0 +1,19 @@
+{
+  "liam": {
+    "email": "liam.taghizadeh@gmail.com",
+    "password": "9a758d68bc390fd72f0797e64b21a10df481a5de9ee898639bdc9900e7608196",
+    "created_at": "2025-08-24T02:40:57.878240"
+  },
+  "jordan_jones": {
+    "email": "jordan.jones@gmail.com",
+    "name": "Jordan Jones",
+    "created_at": "2025-08-24T02:49:18.270402",
+    "provider": "google"
+  },
+  "scriptKiddie": {
+    "email": "scriptKiddie@users.noreply.github.com",
+    "name": "Morgan Williams",
+    "created_at": "2025-08-24T02:49:32.355666",
+    "provider": "github"
+  }
+}
